@@ -6,7 +6,13 @@ function generateRandomNumbers() {
   return numbers;
 }
 
+// FINAL RESULTS OF MAIN DATA
 var grades = generateRandomNumbers();
+
+
+// SMALL SAMPLE OF TEST DATA
+var gradeTestData = [100, 97, 96, 93, 92, 90, 89, 87, 86, 83, 82, 80, 79, 77, 76, 73, 72, 70, 69, 67, 66, 65];
+
 
 //////////////////////////////////////////////
 //// DO NOT EDIT ABOVE LINE //////////////////
